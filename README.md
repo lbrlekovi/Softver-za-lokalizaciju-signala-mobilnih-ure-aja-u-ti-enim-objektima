@@ -2,9 +2,9 @@
 
 ## Podaci o studentu
 
-Ime i prezime | E-mail adresa (FOI) | JMBAG      | Github korisničko ime
-------------  | ------------------- | ---------- | ---------------------
-Luka Brleković| lbrlekovi20@foi.hr  | 0016148697 | lbrlekovi
+Ime i prezime | E-mail adresa (FOI) | Github korisničko ime
+------------  | ------------------- | ---------------------
+Luka Brleković| lbrlekovi20@foi.hr  | lbrlekovi
 
 
 ## Opis domene
