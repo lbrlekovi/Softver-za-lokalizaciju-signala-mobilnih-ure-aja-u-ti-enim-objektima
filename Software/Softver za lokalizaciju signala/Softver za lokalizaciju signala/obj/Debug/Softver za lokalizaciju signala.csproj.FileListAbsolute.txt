@@ -1,0 +1,40 @@
+C:\Users\lukab\source\repos\Softver za lokalizaciju signala\Softver za lokalizaciju signala\obj\Debug\Softver za lokalizaciju signala.csproj.AssemblyReference.cache
+C:\Users\lukab\source\repos\Softver za lokalizaciju signala\Softver za lokalizaciju signala\obj\Debug\Softver za lokalizaciju signala.csproj.SuggestedBindingRedirects.cache
+C:\Users\lukab\source\repos\Softver za lokalizaciju signala\Softver za lokalizaciju signala\obj\Debug\Softver_za_lokalizaciju_signala.Properties.Resources.resources
+C:\Users\lukab\source\repos\Softver za lokalizaciju signala\Softver za lokalizaciju signala\obj\Debug\Softver za lokalizaciju signala.csproj.GenerateResource.cache
+C:\Users\lukab\source\repos\Softver za lokalizaciju signala\Softver za lokalizaciju signala\obj\Debug\Softver za lokalizaciju signala.csproj.CoreCompileInputs.cache
+C:\Users\lukab\source\repos\Softver za lokalizaciju signala\Softver za lokalizaciju signala\bin\Debug\Softver za lokalizaciju signala.exe.config
+C:\Users\lukab\source\repos\Softver za lokalizaciju signala\Softver za lokalizaciju signala\bin\Debug\Softver za lokalizaciju signala.exe
+C:\Users\lukab\source\repos\Softver za lokalizaciju signala\Softver za lokalizaciju signala\bin\Debug\Softver za lokalizaciju signala.pdb
+C:\Users\lukab\source\repos\Softver za lokalizaciju signala\Softver za lokalizaciju signala\obj\Debug\Softver za lokalizaciju signala.exe
+C:\Users\lukab\source\repos\Softver za lokalizaciju signala\Softver za lokalizaciju signala\obj\Debug\Softver za lokalizaciju signala.pdb
+C:\Users\lukab\source\repos\Softver za lokalizaciju signala\Softver za lokalizaciju signala\obj\Debug\Softver_za_lokalizaciju_signala.FrmLogin.resources
+C:\Users\lukab\source\repos\Softver za lokalizaciju signala\Softver za lokalizaciju signala\obj\Debug\Softver_za_lokalizaciju_signala.FrmMobilniUredjaji.resources
+C:\Users\lukab\source\repos\Softver za lokalizaciju signala\Softver za lokalizaciju signala\obj\Debug\Softver_za_lokalizaciju_signala.FrmMainMenu.resources
+C:\Users\lukab\source\repos\Softver za lokalizaciju signala\Softver za lokalizaciju signala\obj\Debug\Softver_za_lokalizaciju_signala.FrmMap.resources
+C:\Users\lukab\source\repos\Softver za lokalizaciju signala\Softver za lokalizaciju signala\bin\Debug\DBLayer.dll
+C:\Users\lukab\source\repos\Softver za lokalizaciju signala\Softver za lokalizaciju signala\bin\Debug\System.dll
+C:\Users\lukab\source\repos\Softver za lokalizaciju signala\Softver za lokalizaciju signala\bin\Debug\System.xml
+C:\Users\lukab\source\repos\Softver za lokalizaciju signala\Softver za lokalizaciju signala\obj\Debug\Softver za lokalizaciju signala.csproj.CopyComplete
+C:\Users\lukab\Desktop\pi22-zadace-lbrlekovi-master\Softver za lokalizaciju signala\Softver za lokalizaciju signala\bin\Debug\Softver za lokalizaciju signala.exe.config
+C:\Users\lukab\Desktop\pi22-zadace-lbrlekovi-master\Softver za lokalizaciju signala\Softver za lokalizaciju signala\bin\Debug\Softver za lokalizaciju signala.exe
+C:\Users\lukab\Desktop\pi22-zadace-lbrlekovi-master\Softver za lokalizaciju signala\Softver za lokalizaciju signala\bin\Debug\Softver za lokalizaciju signala.pdb
+C:\Users\lukab\Desktop\pi22-zadace-lbrlekovi-master\Softver za lokalizaciju signala\Softver za lokalizaciju signala\bin\Debug\DBLayer.dll
+C:\Users\lukab\Desktop\pi22-zadace-lbrlekovi-master\Softver za lokalizaciju signala\Softver za lokalizaciju signala\bin\Debug\System.dll
+C:\Users\lukab\Desktop\pi22-zadace-lbrlekovi-master\Softver za lokalizaciju signala\Softver za lokalizaciju signala\bin\Debug\System.xml
+C:\Users\lukab\Desktop\pi22-zadace-lbrlekovi-master\Softver za lokalizaciju signala\Softver za lokalizaciju signala\obj\Debug\Softver za lokalizaciju signala.csproj.AssemblyReference.cache
+C:\Users\lukab\Desktop\pi22-zadace-lbrlekovi-master\Softver za lokalizaciju signala\Softver za lokalizaciju signala\obj\Debug\Softver za lokalizaciju signala.csproj.SuggestedBindingRedirects.cache
+C:\Users\lukab\Desktop\pi22-zadace-lbrlekovi-master\Softver za lokalizaciju signala\Softver za lokalizaciju signala\obj\Debug\Softver_za_lokalizaciju_signala.FrmMainMenu.resources
+C:\Users\lukab\Desktop\pi22-zadace-lbrlekovi-master\Softver za lokalizaciju signala\Softver za lokalizaciju signala\obj\Debug\Softver_za_lokalizaciju_signala.FrmLogin.resources
+C:\Users\lukab\Desktop\pi22-zadace-lbrlekovi-master\Softver za lokalizaciju signala\Softver za lokalizaciju signala\obj\Debug\Softver_za_lokalizaciju_signala.FrmMap.resources
+C:\Users\lukab\Desktop\pi22-zadace-lbrlekovi-master\Softver za lokalizaciju signala\Softver za lokalizaciju signala\obj\Debug\Softver_za_lokalizaciju_signala.FrmMobilniUredjaji.resources
+C:\Users\lukab\Desktop\pi22-zadace-lbrlekovi-master\Softver za lokalizaciju signala\Softver za lokalizaciju signala\obj\Debug\Softver_za_lokalizaciju_signala.Properties.Resources.resources
+C:\Users\lukab\Desktop\pi22-zadace-lbrlekovi-master\Softver za lokalizaciju signala\Softver za lokalizaciju signala\obj\Debug\Softver za lokalizaciju signala.csproj.GenerateResource.cache
+C:\Users\lukab\Desktop\pi22-zadace-lbrlekovi-master\Softver za lokalizaciju signala\Softver za lokalizaciju signala\obj\Debug\Softver za lokalizaciju signala.csproj.CoreCompileInputs.cache
+C:\Users\lukab\Desktop\pi22-zadace-lbrlekovi-master\Softver za lokalizaciju signala\Softver za lokalizaciju signala\obj\Debug\Softver za lokalizaciju signala.csproj.CopyComplete
+C:\Users\lukab\Desktop\pi22-zadace-lbrlekovi-master\Softver za lokalizaciju signala\Softver za lokalizaciju signala\obj\Debug\Softver za lokalizaciju signala.exe
+C:\Users\lukab\Desktop\pi22-zadace-lbrlekovi-master\Softver za lokalizaciju signala\Softver za lokalizaciju signala\obj\Debug\Softver za lokalizaciju signala.pdb
+C:\Users\lukab\Desktop\pi22-zadace-lbrlekovi-master\Softver za lokalizaciju signala\Softver za lokalizaciju signala\obj\Debug\Softver za lokalizaciju signala.exe.manifest
+C:\Users\lukab\Desktop\pi22-zadace-lbrlekovi-master\Softver za lokalizaciju signala\Softver za lokalizaciju signala\bin\Debug\Softver za lokalizaciju signala.exe.manifest
+C:\Users\lukab\Desktop\pi22-zadace-lbrlekovi-master\Softver za lokalizaciju signala\Softver za lokalizaciju signala\bin\Debug\Softver za lokalizaciju signala.application
+C:\Users\lukab\Desktop\pi22-zadace-lbrlekovi-master\Softver za lokalizaciju signala\Softver za lokalizaciju signala\obj\Debug\Softver za lokalizaciju signala.application
