@@ -24,11 +24,4 @@ Razvoj sigurnosnog sustava za štićene objekte poput zatvora i kaznionica koji 
 - Aplikacija mora sadržavati detalje pojedinih soba objekta kao što su opisni podatci i podatci stanara sobe
 - Aplikacija se uglavnom koristi prikazom tlocrta objekta kojeg je voditelj objekta ručno dizajnirao
 
-## Zadatak
-https://github.com/foivz/pi22-zadace-lbrlekovi/blob/master/Zadatak%20-%20sticeni%20objekti.pdf
-
-## Zadaća 1
-https://github.com/foivz/pi22-zadace-lbrlekovi/blob/master/Specifikacija%20softverskih%20zahtjeva%20-%20MDS%20-%20Luka%20Brlekovi%C4%87%20IPS%202.%20godina.docx
-
-## Zadaća 3
 Podatci za log in: ime - admin, lozinka - pass
